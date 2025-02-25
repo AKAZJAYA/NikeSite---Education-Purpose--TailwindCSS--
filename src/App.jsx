@@ -1,5 +1,5 @@
 import Hero from "./sections/Hero";
-import PopularProducts from "./sections/PopulorProducts";
+import PopulorProducts from "./sections/PopulorProducts";
 import SuperQuality from "./sections/SuperQuality";
 import Services from "./sections/Services";
 import SpecialOffer from "./sections/SpecialOffer";
@@ -15,7 +15,7 @@ const App = () => (
       <Hero />
     </section>
     <section className="padding">
-      <PopularProducts />
+      <PopulorProducts />
     </section>
     <section className="padding">
       <SuperQuality />
